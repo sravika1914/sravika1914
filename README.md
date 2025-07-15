@@ -1,16 +1,18 @@
 <!-- Profile README for Sravika Kadali -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sravika+Kadali;Cybersecurity+Student+%7C+Full+Stack+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Sravika+Kadali;🚀+Cybersecurity+Student+%7C+Full+Stack+Developer;✨+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
 ## 👩‍💻 About Me
 
 🎓 I'm a **Cybersecurity Engineering** student with a passion for building **secure, full-stack applications** that solve real-world problems.  
-💡 300+ DSA problems solved | GPA: 8.47 | Strong foundations in algorithms and system design  
-🌐 Currently exploring **AI**, **cloud security**, and scalable **career-tech solutions**
+💡 250+ DSA problems solved | GPA: 8.47 | Strong foundations in algorithmic thinking  
+🌐 Currently exploring **AI**, **MERN Stack**, and scalable **career-tech solutions**
 
 ---
 
@@ -71,11 +73,4 @@
 
 ---
 
-### 🖼️ Banner (Optional)
 
-You can add your custom banner at the top:
-
-```markdown
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sravika1914/sravika1914/main/banner.png" alt="Sravika Kadali Banner" />
-</p>
